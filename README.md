@@ -5,7 +5,7 @@
   Final Year Computer Engineering Student</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vidhi-agre">
+  <a href="https://www.linkedin.com/in/vidhi-agre-5bb2b0280/?originalSubdomain=in">
     <img src="https://img.shields.io/badge/LinkedIn-Vidhi%20Agre-blue?logo=linkedin" alt="linkedin" />
   </a>
   <a href="mailto:vidhi121103@gmail.com">
@@ -57,7 +57,7 @@
 
 ---
 
-### 💬 [AI Chat Assistant](https://github.com/VidhiAgre/AI-Chat-Assistant)
+### 💬 [AI Chat Assistant](https://github.com/VidhiAgre/AI_Chat_Assistant)
 > Android app that integrates **Google’s Gemini API** to enable intelligent conversational assistance.
 
 🔹 Built using **Jetpack Compose (MVVM)**  
@@ -102,7 +102,7 @@
 
 <p align="center">
   <a href="mailto:vidhi121103@gmail.com"><img src="https://img.shields.io/badge/Gmail-vidhi121103%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vidhi-agre"><img src="https://img.shields.io/badge/LinkedIn-Vidhi%20Agre-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vidhi-agre-5bb2b0280/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-Vidhi%20Agre-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/VidhiAgre"><img src="https://img.shields.io/badge/GitHub-VidhiAgre-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
